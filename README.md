@@ -1,7 +1,8 @@
 # Education and Employment in Finland: Trends, Growth, and Gender Differences
 **Author:** Imose Iduozee
 
-**Full project write-up:** [View PDF](Full Project Write-up.pdf)
+Full project write-up: [View PDF](Full%20Project%20Write-up.pdf)
+
 
 **View the interactive Power BI dashboard:** [View Dashboard](Dashboard.png) 
 
