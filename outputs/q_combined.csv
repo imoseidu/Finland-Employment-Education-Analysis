@@ -1,0 +1,121 @@
+year,education_label,metric,value
+2024,Bachelor’s degree,Change vs 2009 (absolute),201000
+2024,Master’s / Doctorate,Change vs 2009 (absolute),193000
+2024,Upper secondary / non-tertiary,Change vs 2009 (absolute),98000
+2024,Unknown,Change vs 2009 (absolute),-155000
+2024,Short-cycle tertiary,Change vs 2009 (absolute),-162000
+2024,Bachelor’s degree,Change vs 2009 (percent),75.28
+2024,Master’s / Doctorate,Change vs 2009 (percent),66.78
+2024,Upper secondary / non-tertiary,Change vs 2009 (percent),8.82
+2024,Unknown,Change vs 2009 (percent),-36.47
+2024,Short-cycle tertiary,Change vs 2009 (percent),-48.21
+2024,Upper secondary / non-tertiary,"Employed (females, latest year)",526000
+2024,Master’s / Doctorate,"Employed (females, latest year)",272000
+2024,Bachelor’s degree,"Employed (females, latest year)",264000
+2024,Short-cycle tertiary,"Employed (females, latest year)",107000
+2024,Unknown,"Employed (females, latest year)",99000
+2024,Upper secondary / non-tertiary,"Employed (males, latest year)",683000
+2024,Master’s / Doctorate,"Employed (males, latest year)",210000
+2024,Bachelor’s degree,"Employed (males, latest year)",204000
+2024,Unknown,"Employed (males, latest year)",170000
+2024,Short-cycle tertiary,"Employed (males, latest year)",68000
+2009,Upper secondary / non-tertiary,Employment share,0.457578253706755
+2009,Unknown,Employment share,0.17504118616145
+2009,Short-cycle tertiary,Employment share,0.13838550247117
+2009,Master’s / Doctorate,Employment share,0.119028006589786
+2009,Bachelor’s degree,Employment share,0.10996705107084
+2010,Upper secondary / non-tertiary,Employment share,0.456467661691542
+2010,Unknown,Employment share,0.165837479270315
+2010,Short-cycle tertiary,Employment share,0.137230514096186
+2010,Master’s / Doctorate,Employment share,0.126036484245439
+2010,Bachelor’s degree,Employment share,0.114427860696517
+2011,Upper secondary / non-tertiary,Employment share,0.456709068526877
+2011,Unknown,Employment share,0.160443167829298
+2011,Short-cycle tertiary,Employment share,0.13459171112023
+2011,Master’s / Doctorate,Employment share,0.127615921214608
+2011,Bachelor’s degree,Employment share,0.120640131308986
+2012,Upper secondary / non-tertiary,Employment share,0.46530612244898
+2012,Unknown,Employment share,0.154285714285714
+2012,Master’s / Doctorate,Employment share,0.130612244897959
+2012,Bachelor’s degree,Employment share,0.126530612244898
+2012,Short-cycle tertiary,Employment share,0.123265306122449
+2013,Upper secondary / non-tertiary,Employment share,0.463505154639175
+2013,Unknown,Employment share,0.145154639175258
+2013,Master’s / Doctorate,Employment share,0.138969072164948
+2013,Bachelor’s degree,Employment share,0.134432989690722
+2013,Short-cycle tertiary,Employment share,0.117938144329897
+2014,Upper secondary / non-tertiary,Employment share,0.461761058288549
+2014,Master’s / Doctorate,Employment share,0.144687887556842
+2014,Unknown,Employment share,0.14055394791236
+2014,Bachelor’s degree,Employment share,0.138900372054568
+2014,Short-cycle tertiary,Employment share,0.114096734187681
+2015,Upper secondary / non-tertiary,Employment share,0.460865945045795
+2015,Master’s / Doctorate,Employment share,0.144046627810158
+2015,Bachelor’s degree,Employment share,0.142797668609492
+2015,Unknown,Employment share,0.139883430474604
+2015,Short-cycle tertiary,Employment share,0.11240632805995
+2016,Upper secondary / non-tertiary,Employment share,0.460264900662252
+2016,Bachelor’s degree,Employment share,0.149420529801325
+2016,Master’s / Doctorate,Employment share,0.142798013245033
+2016,Unknown,Employment share,0.140728476821192
+2016,Short-cycle tertiary,Employment share,0.106788079470199
+2017,Upper secondary / non-tertiary,Employment share,0.458196721311475
+2017,Bachelor’s degree,Employment share,0.153688524590164
+2017,Master’s / Doctorate,Employment share,0.147540983606557
+2017,Unknown,Employment share,0.138524590163934
+2017,Short-cycle tertiary,Employment share,0.102049180327869
+2018,Upper secondary / non-tertiary,Employment share,0.458715596330275
+2018,Bachelor’s degree,Employment share,0.157558835261268
+2018,Master’s / Doctorate,Employment share,0.152772237734344
+2018,Unknown,Employment share,0.133226964499402
+2018,Short-cycle tertiary,Employment share,0.0977263661747108
+2019,Upper secondary / non-tertiary,Employment share,0.463482037110146
+2019,Bachelor’s degree,Employment share,0.163047769443348
+2019,Master’s / Doctorate,Employment share,0.159099881563364
+2019,Unknown,Employment share,0.125148045795499
+2019,Short-cycle tertiary,Employment share,0.0892222660876431
+2020,Upper secondary / non-tertiary,Employment share,0.457314629258517
+2020,Bachelor’s degree,Employment share,0.172344689378758
+2020,Master’s / Doctorate,Employment share,0.170340681362725
+2020,Unknown,Employment share,0.11623246492986
+2020,Short-cycle tertiary,Employment share,0.0837675350701403
+2021,Upper secondary / non-tertiary,Employment share,0.468076772424598
+2021,Bachelor’s degree,Employment share,0.174304739522131
+2021,Master’s / Doctorate,Employment share,0.172737955346651
+2021,Unknown,Employment share,0.108108108108108
+2021,Short-cycle tertiary,Employment share,0.0767724245985116
+2022,Upper secondary / non-tertiary,Employment share,0.466590301641848
+2022,Bachelor’s degree,Employment share,0.176785032455136
+2022,Master’s / Doctorate,Employment share,0.174494081710577
+2022,Unknown,Employment share,0.109965635738832
+2022,Short-cycle tertiary,Employment share,0.0721649484536082
+2023,Upper secondary / non-tertiary,Employment share,0.463674400912895
+2023,Bachelor’s degree,Employment share,0.178014454165082
+2023,Master’s / Doctorate,Employment share,0.178014454165082
+2023,Unknown,Employment share,0.111829593001141
+2023,Short-cycle tertiary,Employment share,0.0684670977558007
+2024,Upper secondary / non-tertiary,Employment share,0.464464079907799
+2024,Master’s / Doctorate,Employment share,0.185170956588552
+2024,Bachelor’s degree,Employment share,0.179792547061083
+2024,Unknown,Employment share,0.103726469458317
+2024,Short-cycle tertiary,Employment share,0.0668459469842489
+2024,Upper secondary / non-tertiary,"Gender gap (males - females, latest year)",157000
+2024,Unknown,"Gender gap (males - females, latest year)",71000
+2024,Short-cycle tertiary,"Gender gap (males - females, latest year)",-39000
+2024,Bachelor’s degree,"Gender gap (males - females, latest year)",-60000
+2024,Master’s / Doctorate,"Gender gap (males - females, latest year)",-62000
+2009,Upper secondary / non-tertiary,Total employed (2009),1111000
+2009,Unknown,Total employed (2009),425000
+2009,Short-cycle tertiary,Total employed (2009),336000
+2009,Master’s / Doctorate,Total employed (2009),289000
+2009,Bachelor’s degree,Total employed (2009),267000
+2024,Upper secondary / non-tertiary,Total employed (latest year),1209000
+2024,Upper secondary / non-tertiary,Total employed (latest year),1209000
+2024,Master’s / Doctorate,Total employed (latest year),482000
+2024,Master’s / Doctorate,Total employed (latest year),482000
+2024,Bachelor’s degree,Total employed (latest year),468000
+2024,Bachelor’s degree,Total employed (latest year),468000
+2024,Unknown,Total employed (latest year),270000
+2024,Unknown,Total employed (latest year),270000
+2024,Short-cycle tertiary,Total employed (latest year),174000
+2024,Short-cycle tertiary,Total employed (latest year),174000
