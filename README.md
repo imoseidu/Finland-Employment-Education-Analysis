@@ -14,7 +14,8 @@ This project analyzes how employment in Finland is distributed across education 
 
 The project emphasizes **correct interpretation and clear communication**, reflecting how data analysts work with real socio-economic and labor-market data in practice.
 
-<img width="1123" height="636" alt="Dashboard" src="https://github.com/user-attachments/assets/de66c114-1b30-4d31-9aa2-cc3d55edf94c" />
+<img width="1103" height="627" alt="Screenshot 2026-01-02 at 02 33 26" src="https://github.com/user-attachments/assets/7c24c9f1-603d-4fcf-8c47-ca4b8e24863c" />
+
 ---
 
 ## Skills Demonstrated
