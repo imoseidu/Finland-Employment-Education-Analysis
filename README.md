@@ -30,6 +30,17 @@ The project emphasizes **correct interpretation and clear communication**, refle
 SQL · Power BI · Python (pandas, matplotlib, seaborn)
 
 ---
+
+## Reproducing the Analysis
+
+To reproduce the analysis:
+
+1. Open `sql_project.db` using SQLite or DB Browser for SQLite.
+2. Run the SQL files in the `queries/` folder in numerical order.
+3. Query outputs correspond to files in `outputs/` (saved as CSV files).
+4. Use the output CSV files for visualization (see `plots/`).
+   
+---
 ## Data Source
 - **Statistics Finland (StatFin)**  
   *Employed persons aged 15–74 by educational level and sex, 2009–2024*
