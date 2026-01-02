@@ -37,9 +37,10 @@ SQL · Power BI · Python (pandas, matplotlib, seaborn)
 To reproduce the analysis:
 
 1. Open this repository in VS Code.
-2. Run the SQL files in the `queries/` folder in numerical order.
-3. Query outputs correspond to files in `outputs/` (saved as CSV files).
-4. Use the output CSV files for visualization (see `plots/`).
+2. Run both `data_cleaning` files in the `data_prep/` folder.
+3. Run the SQL files in the `queries/` folder in numerical order. (only run `q1`-`q4`)
+4. Query outputs correspond to files in `outputs/` (saved as CSV files).
+5. Use the output CSV files for visualization (see `plots/`).
    
 ---
 ## Data Source
